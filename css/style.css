@@ -1,0 +1,70 @@
+.firstContainer{
+    text-align: center;
+}
+
+.objective{
+    background-color: darkgray;
+    margin-left: 15px;
+    font-size: large;
+    padding-left: 5px;
+    color: white;
+}
+.list{
+   
+    text-align: justify;
+    font-family: initial;
+    font-size: large;
+
+}
+
+.tabel-list  ,td{
+    border: 1px solid black;
+    margin-left: 100px;
+    text-align: center;
+    font-family: initial;
+    font-size: large;
+}
+
+
+.tabel-list ,th {
+    border: 1px solid rgb(15, 15, 15);
+    text-align: center;
+    font-family: initial;
+    font-size: larger;
+}
+
+
+
+.second{
+    width: 90%;
+    border: 1px solid black;
+    height: 150px;
+    margin-left: 100px;
+}
+
+.second-list{
+    text-align: initial;
+    font-family: initial;
+    font-size: large;
+}
+
+.experiance {
+     
+    font-family: initial;
+margin-left: 100px;
+}
+
+.third{
+    width: 90%;
+    border: 1px solid black;
+    height: 150px;
+    margin-left: 100px; 
+}
+
+.fourth{
+    width: 90%;
+    border: 1px solid black;
+    height: 200px;
+    margin-left: 100px; 
+    text-align: initial;
+}
